@@ -4,7 +4,7 @@ from brain_games.games.interactions import (
     failure,
     is_right_answer
 )
-from brain_games.games.calc import ask_question
+from brain_games.games.gcd import ask_question
 
 
 def main():
