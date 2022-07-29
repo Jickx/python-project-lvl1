@@ -1,12 +1,11 @@
 #!/usr/bin/env python
 import prompt
 from random import randrange
+from brain_games.games.interactions import welcome_user
 
 
 def main():
-    print('Welcome to the Brain Games!')
-    name = prompt.string("May I have your name? ")
-    print(f'Hello, {name}!')
+    name = welcome_user()
     print('Answer "yes" if the number is even, otherwise answer "no".')
     ctr = 0
     while True:
