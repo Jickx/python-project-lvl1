@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 import prompt
 from random import randrange
 from brain_games.games.interactions import welcome_user
