@@ -3,12 +3,12 @@ import prompt
 
 
 def is_prime(num):
-    if num > 1:
-        for i in range(2, num):
-            if num % i == 0:
-                return False
-        return True
-    return False
+    if num <= 1:
+        return False
+    for i in range(2, num):
+        if num % i == 0:
+            return False
+    return True
 
 
 def ask_question():
