@@ -2,7 +2,7 @@ import prompt
 from random import randrange
 
 
-def generate_progression() -> list[int]:
+def generate_progression():
     prog_diff = randrange(2, 4)
     prog_length = randrange(5, 10)
     prog_start = randrange(5, 50)
