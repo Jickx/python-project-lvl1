@@ -14,4 +14,4 @@
 [![asciicast](https://asciinema.org/a/GALQNIdpDH5BxyTpIY3DosopD.svg)](https://asciinema.org/a/GALQNIdpDH5BxyTpIY3DosopD)
 
 ### Brain Prime:
-https://asciinema.org/a/FR6c2cFPiDU04SuAH7qTNskOj
+[![asciicast](https://asciinema.org/a/FR6c2cFPiDU04SuAH7qTNskOj.svg)](https://asciinema.org/a/FR6c2cFPiDU04SuAH7qTNskOj)
